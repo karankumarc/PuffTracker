@@ -6,5 +6,6 @@
     <color name="red">#d32f2f</color>
     <color name="green">#388E3C</color>
     <color name="black_65">#A6000000</color>
-    <color name="white">#FFFFFF</color> <!--65% Transparency-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color> <!--65% Transparency-->
 </resources>
