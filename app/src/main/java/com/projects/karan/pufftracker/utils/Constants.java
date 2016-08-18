@@ -9,7 +9,7 @@ public class Constants {
      * Constants for Firebase object properties
      */
     public static final String FIREBASE_PROPERTY_TIMESTAMP = "timestamp";
-    public static final String FIREBASE_PROPERTY_BRAND = "brand";
+    public static final String FIREBASE_PROPERTY_DEVICE_ID = "deviceId";
 
     /**
      * Constants related to locations in Firebase, such as the name of the node
