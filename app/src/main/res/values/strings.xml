@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PuffTracker</string>
+    <string name="button_not_ready">I\'m not ready</string>
+    <string name="button_promise">I Promise!</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus dignissim
+        eleifend. Phasellus ultricies facilisis tempus. \n\nProin in lectus ac erat vulputate dignissim vitae
+        quis sapien. Sed luctus scelerisque tincidunt. Integer imperdiet nisi et ante facilisis ultricies.
+        \n\nAliquam in mattis nisi, ac suscipit urna. Sed non diam ac tellus imperdiet tincidunt. Vestibulum a
+        volutpat lacus. Praesent condimentum elit efficitur turpis pulvinar, ut semper enim pretium. Proin nec
+        turpis nisi. Quisque molestie, nisi eget viverra aliquet, augue felis aliquam sem, id pharetra turpis quam
+        id quam. Praesent id tristique neque. Praesent rutrum nibh tortor, sit amet porttitor erat feugiat at.
+        \n\nInterdum et malesuada fames ac ante ipsum primis in faucibus. Nam mattis est risus, id fermentum nisl blandit non.
+
+    Proin porttitor sapien at ipsum convallis, ac rhoncus magna interdum. Nam urna libero, semper eget eros et, pretium tincidunt nulla. Curabitur consectetur ipsum mi. Aenean eleifend turpis in dolor ornare porttitor. Nam rhoncus dolor vel augue consectetur, nec bibendum ex scelerisque. Donec ex nisl, convallis et posuere at, fermentum sed odio. Quisque ultrices enim at gravida ultricies. Praesent turpis mauris, accumsan eu nisi id, porta pretium diam. Mauris sagittis commodo nisl pulvinar ultrices. Suspendisse sit amet ligula interdum, sodales orci a, ornare neque. Vestibulum erat nisl, molestie sed vehicula at, pellentesque eget nisl.</string>
+    <string name="welcome_text">Dear Jai, \n\nWelcome to the PuffTracker. My job is to enable you
+        to monitor and keep track of the number of cigarettes you smoke during the day, and keep giving you
+        systematic suggestions upon the rate at which you should decrease your intake.
+
+        \n\nMy final goal is to liberate you from this habit, so that you can get back to singing your way through life
+        and lead a retirement full of health and vitality, when you eventually get there.
+
+        \n\nHowever, I can only help you if you allow me to help you. So you must promise me that everytime you
+        light a cigarette, you will open me up and record the cigarette that you just smoked.
+    </string>
+    <string name="congratulations_dialog">"You have successfully taken your first step towards a smoke free life ahead"</string>
+    <string name="congratulations_dialog_title">Congratulations, Jai!</string>
+    <string name="default_welcome_message">Hi Jai,\n\nClick on the buring cigarette above every time you light a cigarette and I will take care of the rest!
+        I am starting you off with a generous limit of 20 cigerettes per day. You will be rewarded handsomely everytime you fall short of your limit.
+        We will gradually work our way down.
+    </string>
+    <string name="summary_text">Summary of the day:</string>
+    <string name="disappointed_dialog">Your son has put in a lot of time and effort into making me for you. If you won\'t allow me to help you, I will send your son an sms notifying him about his effort going in vain.</string>
+    <string name="disappointed_dialog_title">This is disappointing, Jai...</string>
+    <string name="sms_message">Your father is not ready to take the smoke-free journey yet!</string>
+    <string name="sms_phone_number">7799869066</string>
+    <string name="disappointed_toast">It\'s now or never, Jai. Take the leap!</string>
+    <string name="action_add_cigerette">Add Cigerette</string>
+    <string name="action_cancel_last_cigarette">Cancel last cigarette</string>
+    <string name="dialog_not_connected_message">I have detected that you are not connected to the internet. Please try again after you are connected.</string>
+    <string name="dialog_not_connected_title">No network detected</string>
+</resources>
