@@ -32,6 +32,8 @@ import java.util.Date;
 
 public class Dashboard extends AppCompatActivity{
 
+    private static final String TAG = Dashboard.class.getSimpleName();
+
     private Firebase baseSmokingUrl;
     private String DATE = Utils.SIMPLE_DATE_FORMAT.format(new Date());
     private static int count, maxCount, totalCount;

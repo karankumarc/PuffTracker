@@ -16,6 +16,8 @@ import com.projects.karan.pufftracker.R;
 
 public class FirstLaunch extends AppCompatActivity implements View.OnClickListener {
 
+    private static final String TAG = FirstLaunch.class.getSimpleName();
+
     Button buttonNotReady, buttonPromise;
 
     @Override
